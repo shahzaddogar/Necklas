@@ -1,0 +1,22 @@
+id,Project,Subject,Type,Status,Priority,Assignee,Description
+947,Euro Systems- Client project,1. User Authentication and Roles,Task,On hold,High,Mahnoor @code-graphers.com,""
+948,Euro Systems- Client project,1.1: Implement Role-Based Access Control (RBAC),Task,On hold,High,Mahnoor @code-graphers.com,Develop role-based access control to differentiate views for clients and providers.
+949,Euro Systems- Client project,1.2: Create Unified Login System,Task,On hold,High,Mahnoor @code-graphers.com,Build a unified login system allowing users to switch between client and provider roles.
+950,Euro Systems- Client project,1.3: Test Authentication and Role Switching,Task,On hold,High,Mahnoor @code-graphers.com,Conduct tests for secure authentication and seamless role transitions.
+951,Euro Systems- Client project,2. Event Creation and Calendar,Task,New,Normal,"",""
+952,Euro Systems- Client project,2.1: Build Event Creation Process with Privacy Settings-BE,Task,In progress,Normal,"","Implement event creation functionality with privacy settings, defaulting to private."
+953,Euro Systems- Client project,2.2: Develop Calendar Component for Upcoming Events,Task,New,Normal,"","Create a calendar component to display upcoming events (today, tomorrow, this week)."
+954,Euro Systems- Client project,2.3: Test Event-Timeline and Privacy Setting Integration,Task,New,Normal,"",&nbsp;Test the event creation and calendar integration with privacy settings.
+955,Euro Systems- Client project,3. Service Provider Dashboard and Review Management,Task,New,Normal,"",""
+956,Euro Systems- Client project,3.1: Develop Service Provider Dashboard with Service Management,Task,New,Normal,"","Build a dashboard where providers can manage multiple services, including pricing, availability, and variations."
+957,Euro Systems- Client project,3.2: Build Review Management Section in Dashboard,Task,New,Normal,"",Create a review management section allowing providers to view and respond to reviews.
+958,Euro Systems- Client project,3.3: Test Dashboard and Review Management Functionality,Task,New,Normal,"",Test the provider dashboard and review response functionalities.
+959,Euro Systems- Client project,4. Client-Provider Search and Interaction,Task,New,Normal,"",""
+960,Euro Systems- Client project,4.1: Implement Client Search with Filtering Options,Task,New,Normal,"","Develop search functionality for the client’s timeline with filters for distance, rating, and service type."
+961,Euro Systems- Client project,4.2: Develop Real-Time Chat with Attachment Support,Task,New,Normal,"",Build a real-time chat feature with support for attachments to enable client-provider communication.
+962,Euro Systems- Client project,4.3: Test Search Filtering and Chat Functionality,Task,New,Normal,"","Test the accuracy of filters in search and validate chat functionality, including attachment support."
+963,Euro Systems- Client project,5. Notifications and Calendar Integration,Task,New,Normal,"",""
+964,Euro Systems- Client project,5.1: Implement Notifications for Provider Updates,Task,New,Normal,"","Create notification functionality for clients when followed providers post updates (discounts, announcements)."
+965,Euro Systems- Client project,5.2: Explore Third-Party Calendar/Booking Integration Options,Task,New,Normal,"",Research and test third-party calendar or booking integrations for improved booking experiences.
+966,Euro Systems- Client project,5.3: Test Notification Timeliness and Accuracy,Task,New,Normal,"","Validate notifications for accuracy and timing, especially for followed provider updates."
+979,Euro Systems- Client project,Error in Role-based Authentication,Bug,New,Normal,Mahnoor @code-graphers.com,Resolved
